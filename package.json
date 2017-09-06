@@ -8,5 +8,12 @@
     "start": "node server.js"
   },
   "author": "Miriam Elizabeth Laguna Velazquez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "babel-standalone": "^6.26.0",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.2",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6"
+  }
 }
